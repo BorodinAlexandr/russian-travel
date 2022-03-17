@@ -1,0 +1,18 @@
+.intro__text {
+    margin: 40px 0 0;
+    font-size: 16px;
+    line-height: 163%;
+    width: 690px;
+}
+
+@media (max-width: 919px) {
+    .intro__text {
+        width: 720px;
+    }
+}
+
+@media (max-width: 767px) {
+    .intro__text {
+        width: 100%;
+    }
+}

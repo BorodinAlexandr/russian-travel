@@ -1,0 +1,34 @@
+.places__place {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    row-gap: 48px;
+}
+
+@media (max-width: 1279px) {
+    .places__place {
+        -moz-column-gap: 32px;
+        column-gap: 32px;
+    }
+}
+
+@media (max-width: 919px) {
+    .places__place {
+        -moz-column-gap: 28px;
+        column-gap: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .places__place {
+        grid-template-columns: repeat(1, 1fr);
+        justify-items: start;
+    }
+}
+
+@media (max-width: 576px) {
+    .places__place {
+        row-gap: 32px;
+    }
+}
