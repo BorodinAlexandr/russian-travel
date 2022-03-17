@@ -4,5 +4,5 @@
 
 Все ссылки кликабельные.
 
-Github-pages: 
+Github-pages: https://borodinalexandr.github.io/russian-travel/
 
