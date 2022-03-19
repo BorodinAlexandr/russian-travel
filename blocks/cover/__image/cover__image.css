@@ -1,11 +1,8 @@
 .cover__image {
     grid-column: 1;
     grid-row: 1/3;
-    opacity: 0.8;
     width: 100%;
-}
-
-.cover__image:hover {
-    opacity: 0.3;
-    transition: 0.5s all;
+    background: url(../../images/trains.jpg) center center/cover no-repeat;
+    position: relative;
+    z-index: -1;
 }
