@@ -1,8 +1,10 @@
 # Проект: Путешествие по России
+###### учебный проект по адаптивной верстке
+#### HTML+CSS
 
-Проект про путешествия по России, адаптивно свёрстан с помощью Grid Layout и медиа-запросов
+## Проект про путешествия по России, адаптивно свёрстан с помощью Grid Layout и медиа-запросов
 
-Все ссылки кликабельные.
+### Все ссылки кликабельны.
 
-Github-pages: https://borodinalexandr.github.io/russian-travel/
+## Github-pages: https://borodinalexandr.github.io/russian-travel/
 
