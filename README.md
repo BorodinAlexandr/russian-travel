@@ -9,5 +9,5 @@
 
 ### Все ссылки кликабельны.
 
-## Github-pages: https://borodinalexandr.github.io/russian-travel/
+## Github-pages: [russian-travel](https://borodinalexandr.github.io/russian-travel/)
 
